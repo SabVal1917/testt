@@ -1,0 +1,27 @@
+header {
+    background-color: aqua;
+    border-radius: 5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.border {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+   
+.menu {
+    list-style: none;
+    padding: 0px;
+}
+.menu-item {
+    display: inline-block;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
